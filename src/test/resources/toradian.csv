@@ -1,0 +1,4 @@
+argumentA, delta, expectedOut
+40, 0.01, 0.69
+5, 0.01, 0.08
+66, 0.01, 1.15

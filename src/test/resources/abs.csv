@@ -1,0 +1,4 @@
+argumentA, expectedOut
+1,1
+-1,1
+-3,3

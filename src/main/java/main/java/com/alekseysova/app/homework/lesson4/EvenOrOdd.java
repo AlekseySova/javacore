@@ -1,4 +1,4 @@
-package main.java.com.alekseysova.app.classwork.lesson4;
+package main.java.com.alekseysova.app.homework.lesson4;
 
 import java.util.Scanner;
 

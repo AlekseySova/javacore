@@ -7,7 +7,7 @@ public class MathFunc {
     int a;
     int b;
 
-    public int multyply(int a, int b){
+    public static int multyply(int a, int b){
         int result =a * b;
         return result;
     }

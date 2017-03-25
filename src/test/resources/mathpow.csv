@@ -1,0 +1,4 @@
+argumentA, ArgumentB, delta, expectedOut
+2,3,0.1,8
+4,4,0.1,256
+9,2,0.1,81

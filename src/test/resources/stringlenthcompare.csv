@@ -1,0 +1,5 @@
+argumentA,argumentB,expecteOut
+Java, Unit, true
+Compiler, Programming, false
+Application, Mathematic, false
+JUnit, Junit, true

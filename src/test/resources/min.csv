@@ -1,0 +1,5 @@
+argumentA, argumentB, expectedOut
+1,2,1
+45,67,45
+8,2,2
+89,111,89

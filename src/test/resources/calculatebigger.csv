@@ -1,0 +1,4 @@
+AreaA ,AreaB, expectedOut
+45.3, 22.2, Result: Area1 is bigger
+33, 33, Result: Area1 equal with Area2
+34.2, 99, Result: Area2 is bigger
