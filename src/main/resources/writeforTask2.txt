@@ -1,0 +1,7 @@
+moom Polindrome
+activate not Polindrome
+father not Polindrome
+ana Polindrome
+adam not Polindrome
+boob Polindrome
+civic Polindrome

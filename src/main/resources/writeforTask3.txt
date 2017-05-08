@@ -1,0 +1,4 @@
+Hello
+My name is Alex
+I live in Ukraine
+exit
